@@ -22,7 +22,7 @@ The notebook reads the following data file (path used in the notebook):
 3.Data visualization with Matplotlib/Seaborn
 4.Statistical analysis & insights
 .
-**Results / Insights**
+## Results /Insights
 Key findings and interpretations from the dataset
 Visualization outputs
 insights using Statistical charts
